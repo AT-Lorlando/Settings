@@ -1,0 +1,141 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\$DE7E00-1JI5QESEBL35\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "editor.suggestSelection": "first",
+  "workbench.colorCustomizations": {
+    "menu.background": "#ffffff",
+    "activityBar.background": "#07080e",
+    "sideBarSectionHeader.background": "#07080e",
+    "sideBar.background": "#07080e",
+    "sideBar.border": "#0095ff",
+    "editor.background": "#07080e",
+    "minimap.background": "#07080e",
+    "button.background": "#07080e",
+    "dropdown.background": "#07080e",
+    "input.background": "#07080e",
+    "scrollbar.background": "#07080e",
+    "progressBar.background": "#07080e",
+    "list.activeSelectionBackground": "#07080e",
+    "editor.findMatchBackground": "#07080e",
+    "editorGroupHeader.noTabsBackground": "#07080e",
+    "editorGroupHeader.tabsBackground": "#07080e",
+    "editorGroup.dropBackground": "#74757a",
+    "terminal.background": "#07080e",
+    "debugToolBar.background": "#07080e",
+    "tree.indentGuidesStroke": "#0095ff",
+    "titleBar.activeBackground": "#07080e",
+    "tab.activeBackground": "#07080e",
+    "tab.inactiveBackground": "#07080e",
+    "tab.border": "#07080e",
+    "tab.activeBorder": "#0095ff",
+    "statusBar.background": "#07080e"
+  },
+  "python.languageServer": "Jedi",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb",
+    "*.sql": "default"
+  },
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "terminal.explorerKind": "external",
+  "terminal.external.windowsExec": "C:\\Users\\rcdje\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.SSH.remotePlatform": {
+    "176.128.9.92": "linux",
+    "192.168.1.93": "linux",
+    "rcdje": "windows",
+    "lorlando": "linux",
+    "Sekira": "windows",
+    "Sekira_local": "windows",
+    "HONSHA": "linux",
+    "Minecraft_[Honsha]": "linux",
+    "Sekira_[Arlequin]": "windows",
+    "honsha.altab.tech": "linux",
+    "Chuya_[Honsha]": "linux",
+    "arlequin": "linux",
+    "192.168.163.134": "linux",
+    "192.168.163.135": "linux",
+    "default": "linux",
+    "Sukoshi": "linux",
+    "Vagrant": "linux",
+    "Honsha": "linux"
+  },
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "workbench.startupEditor": "none",
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+  "workbench.preferredHighContrastColorTheme": "Default Dark+",
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "markdown.extension.print.theme": "dark",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "githubPullRequests.createOnPublishBranch": "never",
+  "workbench.colorTheme": "One Dark Pro",
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true,
+  "tailwindCSS.emmetCompletions": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "markdown.preview.breaks": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.accessibilitySupport": "off",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "redhat.telemetry.enabled": false,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.stickyScroll.enabled": true,
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "githubPullRequests.pullBranch": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
+  "[edge]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.sideBar.location": "right",
+  "background.windowBackgrounds": [
+    "d:/WT-Settings/anime-background-1024x588.png",
+    "c:/Users/$DE7E00-1JI5QESEBL35/Documents/WindowsPowerShell/bg.webp"
+  ],
+  "background.backgroundSize": ["Cover", "Cover", "Cover", "Cover"],
+  "background.backgroundSizeValue": ["40%", "100%", "100%", "100%"],
+  "background.editorBackgrounds": [],
+  "npm.keybindingsChangedWarningShown": true,
+  "background.backgroundOpacity": [0.8, 0.9, 0.9, 0.9],
+  "background.backgroundBlur": ["0.1", "0", "0", "0"],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
